@@ -1,0 +1,6 @@
+export const GET_ALL_ALBUMS = 'GET_ALL_ALBUMS';
+export const GET_SONGS = 'GET_SONGS';
+export const DELETE_SONGS = 'DELETE_SONGS';
+export const GETTER_ERROR = 'GETTER_ERROR';
+export const SEARCH_ALBUMS = 'SEARCH_ALBUMS';
+export const SEARCH_BY_CATEGORY= 'SEARCH_BY_CATEGORY';
